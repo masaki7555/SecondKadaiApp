@@ -9,7 +9,7 @@
 import UIKit
 
 class NameViewController: UIViewController {
-    var x:String = "名前がないですよー"
+    var x:String = ""
     
     @IBOutlet weak var your_name: UILabel!
     
