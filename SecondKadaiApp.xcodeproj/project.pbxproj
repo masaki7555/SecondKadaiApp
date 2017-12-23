@@ -12,6 +12,7 @@
 		A38E5D361FEE8039004A5346 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A38E5D341FEE8039004A5346 /* Main.storyboard */; };
 		A38E5D381FEE8039004A5346 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A38E5D371FEE8039004A5346 /* Assets.xcassets */; };
 		A38E5D3B1FEE8039004A5346 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A38E5D391FEE8039004A5346 /* LaunchScreen.storyboard */; };
+		A38E5D431FEE81FC004A5346 /* NameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A38E5D421FEE81FC004A5346 /* NameViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		A38E5D371FEE8039004A5346 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A38E5D3A1FEE8039004A5346 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A38E5D3C1FEE8039004A5346 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A38E5D421FEE81FC004A5346 /* NameViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NameViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				A38E5D301FEE8039004A5346 /* AppDelegate.swift */,
 				A38E5D321FEE8039004A5346 /* ViewController.swift */,
 				A38E5D341FEE8039004A5346 /* Main.storyboard */,
+				A38E5D421FEE81FC004A5346 /* NameViewController.swift */,
 				A38E5D371FEE8039004A5346 /* Assets.xcassets */,
 				A38E5D391FEE8039004A5346 /* LaunchScreen.storyboard */,
 				A38E5D3C1FEE8039004A5346 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				A38E5D331FEE8039004A5346 /* ViewController.swift in Sources */,
 				A38E5D311FEE8039004A5346 /* AppDelegate.swift in Sources */,
+				A38E5D431FEE81FC004A5346 /* NameViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
